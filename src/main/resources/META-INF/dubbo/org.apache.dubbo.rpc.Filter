@@ -1,0 +1,2 @@
+traceProviderFilter=me.sxl.trace.dubbo.DubboProviderFilter
+traceConsumerFilter=me.sxl.trace.dubbo.DubboConsumerFilter
